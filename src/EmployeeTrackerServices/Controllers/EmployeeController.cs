@@ -1,7 +1,7 @@
 ﻿// using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace prototype
+namespace EmployeeTrackerServices
 {
     [Route("api/[controller]")]
     public class EmployeeController : Controller

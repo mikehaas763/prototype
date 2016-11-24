@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0CA70973-E12F-4A60-9598-2F44977C2595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prototype", "src\prototype\prototype.csproj", "{AADDD20E-7763-42D6-B99E-3B9808AFF8A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTrackerServices", "src\EmployeeTrackerServices\EmployeeTrackerServices.csproj", "{AADDD20E-7763-42D6-B99E-3B9808AFF8A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
